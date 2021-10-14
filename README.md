@@ -1,2 +1,2 @@
 # CoverImages
-This repository stores cover images of different papers
+This repository holds the cover images associated with our publications.
